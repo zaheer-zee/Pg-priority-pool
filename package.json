@@ -1,0 +1,24 @@
+{
+  "name": "pg-priority-pool",
+  "version": "1.0.0",
+  "description": "A priority queue wrapper for node-postgres (pg) connection pools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pg",
+    "postgres",
+    "postgresql",
+    "pool",
+    "priority",
+    "queue",
+    "pg-pool"
+  ],
+  "author": "ZaheerChoudhari",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "pg": "^8.23.0"
+  }
+}
