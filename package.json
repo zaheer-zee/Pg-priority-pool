@@ -16,6 +16,10 @@
     "pg-pool"
   ],
   "author": "ZaheerChoudhari",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zaheer-zee/Pg-priority-pool.git"
+  },
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {

@@ -3,6 +3,8 @@
 > *"Think dynamic, not linear. True scalability lies in prioritizing chaos, not just waiting in line."*
 > 
 > **Built by ZaheerChoudhari**
+> 
+> **Repository: [https://github.com/zaheer-zee/Pg-priority-pool](https://github.com/zaheer-zee/Pg-priority-pool)**
 
 A priority queue wrapper for node-postgres (`pg`) connection pools.
 
