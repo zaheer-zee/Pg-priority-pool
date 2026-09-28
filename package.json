@@ -1,6 +1,6 @@
 {
   "name": "pg-priority-pool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A priority queue wrapper for node-postgres (pg) connection pools",
   "main": "index.js",
   "scripts": {
